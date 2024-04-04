@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=huyhoang-doit&label=Profile%20views&color=brightgreen&style=flat" alt="huyhoang-doit"/>
 
 <!-- Huyhoang-doit -->
-<a href="#" target="_blank">
+<a href="https://www.facebook.com/lvhh171" target="_blank">
   <img src="svg/huyhoangdoit.svg" width="1200" alt="huyhoang-doit-img" />
 </a>
 
@@ -16,6 +16,7 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code></td>
       <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code></td>
+      <td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code></td>
@@ -92,16 +93,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="mailto:lvhhoangg171@gmail.com" >
-    <img align="center" alt="huyhoang-email" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  <a href="mailto:huyhoangdoit.171@gmail.com" >
+    <img align="center" alt="huyhoang-email" width="50px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/le-van-huy-hoang" target="_blank">
-    <img align="center" alt="huyhoang-linkedin" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="huyhoang-linkedin" width="50px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
   <a href="https://www.facebook.com/lvhh171" target="_blank">
-      <img align="center" alt="huyhoang-facebook" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+      <img align="center" alt="huyhoang-facebook" width="50px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
 </div>
 
